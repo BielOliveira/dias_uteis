@@ -9,7 +9,7 @@ http://codigofonte.uol.com.br/codigos/funcao-que-calcula-os-feriados-brasileiros
 
 que imprimia na tela os feriados nacionais.
 
-Fique a vontade para pegar o codigo, fique mais a vontade de agradecer caso lhe seja util econtribuir
+Fique a vontade para pegar o codigo, fique mais a vontade para dar feedback caso lhe seja util e econtribuir
 caso tenha uma ideia
 
-O código ainda se encontra muito Sujo mas estarei aprimorando
+O código ainda se encontra muito sujo mas estarei aprimorando
